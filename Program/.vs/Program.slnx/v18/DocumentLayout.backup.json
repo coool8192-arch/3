@@ -1,10 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\Program\\",
+  "WorkspaceRootPath": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\3\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B01288A3-45DA-467B-A0A7-57C1A4A4EDD6}|Program.vcxproj|C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{B01288A3-45DA-467B-A0A7-57C1A4A4EDD6}|Program.vcxproj|C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\3\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B01288A3-45DA-467B-A0A7-57C1A4A4EDD6}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9875C874-2875-4C29-9E16-4F607842AE78}|..\\Class1st (Stream)\\Class1st (Stream).vcxproj|C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\3\\Class1st (Stream)\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +17,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "source.cpp",
+              "DocumentMoniker": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\3\\Class1st (Stream)\\source.cpp",
+              "RelativeDocumentMoniker": "..\\Class1st (Stream)\\source.cpp",
+              "ToolTip": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\3\\Class1st (Stream)\\source.cpp",
+              "RelativeToolTip": "..\\Class1st (Stream)\\source.cpp",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAAGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-11T11:08:49.537Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cpp",
-              "DocumentMoniker": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\Program\\Program.cpp",
+              "DocumentMoniker": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\3\\Program\\Program.cpp",
               "RelativeDocumentMoniker": "Program.cpp",
-              "ToolTip": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\Program\\Program.cpp*",
+              "ToolTip": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\3\\Program\\Program.cpp*",
               "RelativeToolTip": "Program.cpp*",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAEwAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAE8AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-02-10T11:04:34.36Z",
               "EditorCaption": ""
