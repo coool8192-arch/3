@@ -7,10 +7,10 @@
       "RelativeMoniker": "D:0:0:{B01288A3-45DA-467B-A0A7-57C1A4A4EDD6}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{601F8FBE-4C1B-4A82-9530-D2BC01B8E320}|..\\Class2nd (Class)\\Class2nd (Class).vcxproj|C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\3\\Class2nd (Class)\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{9875C874-2875-4C29-9E16-4F607842AE78}|..\\Class1st (Stream)\\Class1st (Stream).vcxproj|C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\3\\Class1st (Stream)\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9875C874-2875-4C29-9E16-4F607842AE78}|..\\Class1st (Stream)\\Class1st (Stream).vcxproj|C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\3\\Class1st (Stream)\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{601F8FBE-4C1B-4A82-9530-D2BC01B8E320}|..\\Class2nd (Class)\\Class2nd (Class).vcxproj|C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\3\\Class2nd (Class)\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "source.cpp",
               "DocumentMoniker": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\3\\Class2nd (Class)\\source.cpp",
               "RelativeDocumentMoniker": "..\\Class2nd (Class)\\source.cpp",
@@ -32,12 +32,11 @@
               "RelativeToolTip": "..\\Class2nd (Class)\\source.cpp",
               "ViewState": "AgIAADAAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-11T12:38:18.479Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-11T12:38:18.479Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "source.cpp",
               "DocumentMoniker": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\3\\Class1st (Stream)\\source.cpp",
               "RelativeDocumentMoniker": "..\\Class1st (Stream)\\source.cpp",
@@ -56,7 +55,7 @@
               "RelativeDocumentMoniker": "Program.cpp",
               "ToolTip": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\3\\Program\\Program.cpp*",
               "RelativeToolTip": "Program.cpp*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAADsAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAswGQAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-02-10T11:04:34.36Z",
               "EditorCaption": ""
