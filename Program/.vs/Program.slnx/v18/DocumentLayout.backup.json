@@ -7,20 +7,19 @@
       "RelativeMoniker": "D:0:0:{B01288A3-45DA-467B-A0A7-57C1A4A4EDD6}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B01288A3-45DA-467B-A0A7-57C1A4A4EDD6}|Program.vcxproj|C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\3\\Program\\Potion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B01288A3-45DA-467B-A0A7-57C1A4A4EDD6}|Program.vcxproj|solutionrelative:Potion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{B01288A3-45DA-467B-A0A7-57C1A4A4EDD6}|Program.vcxproj|C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\3\\Program\\Message.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B01288A3-45DA-467B-A0A7-57C1A4A4EDD6}|Program.vcxproj|solutionrelative:Message.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B01288A3-45DA-467B-A0A7-57C1A4A4EDD6}|Program.vcxproj|C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\3\\Program\\Potion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B01288A3-45DA-467B-A0A7-57C1A4A4EDD6}|Program.vcxproj|solutionrelative:Potion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{B01288A3-45DA-467B-A0A7-57C1A4A4EDD6}|Program.vcxproj|C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\3\\Program\\Message.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B01288A3-45DA-467B-A0A7-57C1A4A4EDD6}|Program.vcxproj|solutionrelative:Message.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B01288A3-45DA-467B-A0A7-57C1A4A4EDD6}|Program.vcxproj|C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\3\\Program\\Consumable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B01288A3-45DA-467B-A0A7-57C1A4A4EDD6}|Program.vcxproj|solutionrelative:Consumable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{B01288A3-45DA-467B-A0A7-57C1A4A4EDD6}|Program.vcxproj|C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\3\\Program\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B01288A3-45DA-467B-A0A7-57C1A4A4EDD6}|Program.vcxproj|solutionrelative:stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B01288A3-45DA-467B-A0A7-57C1A4A4EDD6}|Program.vcxproj|C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\3\\Program\\Consumable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B01288A3-45DA-467B-A0A7-57C1A4A4EDD6}|Program.vcxproj|solutionrelative:Consumable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7CE4BA45-485F-4B2C-B14D-095C1CCB88F4}|..\\Class4th (Inheritance)\\Class4th (Inheritance).vcxproj|C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\3\\Class4th (Inheritance)\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3DA3B384-C698-4A0B-B7E8-B7A6B87C4B6E}|..\\Class3th (Constructor \u0026 Destructor)\\Class3th (Constructor \u0026 Destructor).vcxproj|C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\3\\Class3th (Constructor \u0026 Destructor)\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -39,58 +38,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Consumable.cpp",
-              "DocumentMoniker": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\3\\Program\\Consumable.cpp",
-              "RelativeDocumentMoniker": "Consumable.cpp",
-              "ToolTip": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\3\\Program\\Consumable.cpp",
-              "RelativeToolTip": "Consumable.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Message.cpp",
+              "DocumentMoniker": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\3\\Program\\Message.cpp",
+              "RelativeDocumentMoniker": "Message.cpp",
+              "ToolTip": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\3\\Program\\Message.cpp",
+              "RelativeToolTip": "Message.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-19T12:08:22.643Z",
+              "WhenOpened": "2026-02-20T12:19:23.363Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Potion.cpp",
-              "DocumentMoniker": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\3\\Program\\Potion.cpp",
-              "RelativeDocumentMoniker": "Potion.cpp",
-              "ToolTip": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\3\\Program\\Potion.cpp",
-              "RelativeToolTip": "Potion.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-19T12:25:16.766Z",
+              "Title": "Message.h",
+              "DocumentMoniker": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\3\\Program\\Message.h",
+              "RelativeDocumentMoniker": "Message.h",
+              "ToolTip": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\3\\Program\\Message.h",
+              "RelativeToolTip": "Message.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-20T12:09:42.204Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Potion.h",
-              "DocumentMoniker": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\3\\Program\\Potion.h",
-              "RelativeDocumentMoniker": "Potion.h",
-              "ToolTip": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\3\\Program\\Potion.h",
-              "RelativeToolTip": "Potion.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "stdafx.h",
+              "DocumentMoniker": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\3\\Program\\stdafx.h",
+              "RelativeDocumentMoniker": "stdafx.h",
+              "ToolTip": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\3\\Program\\stdafx.h",
+              "RelativeToolTip": "stdafx.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-19T12:23:01.869Z",
+              "WhenOpened": "2026-02-20T12:07:43.244Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Consumable.h",
-              "DocumentMoniker": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\3\\Program\\Consumable.h",
-              "RelativeDocumentMoniker": "Consumable.h",
-              "ToolTip": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\3\\Program\\Consumable.h",
-              "RelativeToolTip": "Consumable.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-19T12:07:58.465Z",
+              "Title": "source.cpp",
+              "DocumentMoniker": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\3\\Class4th (Inheritance)\\source.cpp",
+              "RelativeDocumentMoniker": "..\\Class4th (Inheritance)\\source.cpp",
+              "ToolTip": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\3\\Class4th (Inheritance)\\source.cpp",
+              "RelativeToolTip": "..\\Class4th (Inheritance)\\source.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-20T11:12:14.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cpp",
+              "DocumentMoniker": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\3\\Program\\Program.cpp",
+              "RelativeDocumentMoniker": "Program.cpp",
+              "ToolTip": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\3\\Program\\Program.cpp*",
+              "RelativeToolTip": "Program.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-10T11:04:34.36Z",
               "EditorCaption": ""
             },
             {
@@ -115,21 +127,7 @@
               "RelativeToolTip": "..\\Class1st (Stream)\\source.cpp",
               "ViewState": "AgIAACkAAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-11T11:08:49.537Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cpp",
-              "DocumentMoniker": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\3\\Program\\Program.cpp",
-              "RelativeDocumentMoniker": "Program.cpp",
-              "ToolTip": "C:\\Users\\\uC774\uC2DC\uC6D0\\Desktop\\3\\Program\\Program.cpp*",
-              "RelativeToolTip": "Program.cpp*",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-10T11:04:34.36Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-11T11:08:49.537Z"
             },
             {
               "$type": "Document",
@@ -141,8 +139,7 @@
               "RelativeToolTip": "..\\Class3th (Constructor \u0026 Destructor)\\source.cpp",
               "ViewState": "AgIAAD8AAAAAAAAAAAAAAGkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-13T12:40:11.302Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-13T12:40:11.302Z"
             }
           ]
         }
