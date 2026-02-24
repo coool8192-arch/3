@@ -5,3 +5,8 @@ void Stat::Enhance()
 {
 	cout << "stat enhanced" << endl;
 }
+
+Stat::~Stat()
+{
+	cout << "Stat Destroyed" << endl;
+}

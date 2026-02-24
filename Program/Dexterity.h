@@ -4,6 +4,7 @@
 class Dexterity:public Stat
 {
 public:
-	void Enhance();
+	virtual void Enhance();
+	virtual ~Dexterity();
 };
 

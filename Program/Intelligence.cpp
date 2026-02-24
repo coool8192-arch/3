@@ -5,3 +5,8 @@ void Intelligence::Enhance()
 {
 	cout << "intelligence enhanced" << endl;
 }
+
+Intelligence::~Intelligence()
+{
+	cout << "Intelligence Destroyed" << endl;
+}
