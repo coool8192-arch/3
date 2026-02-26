@@ -6,5 +6,6 @@ class Stone :
 public:
     Stone();
     virtual void Describe();
+    virtual ~Stone();
 };
 

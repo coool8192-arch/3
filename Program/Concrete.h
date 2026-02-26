@@ -6,5 +6,6 @@ class Concrete :
 public:
     Concrete();
     virtual void Describe();
+    virtual ~Concrete();
 };
 

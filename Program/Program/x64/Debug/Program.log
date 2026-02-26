@@ -1,8 +1,4 @@
-﻿  Block.cpp
-  Concrete.cpp
-C:\Users\이시원\Desktop\3\Program\Concrete.cpp(7,14): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
-C:\Users\이시원\Desktop\3\Program\Concrete.cpp(8,14): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
-  Program.cpp
-  Stone.cpp
+﻿  Program.cpp
+  Vector.cpp
   코드를 생성하고 있습니다...
   Program.vcxproj -> C:\Users\이시원\Desktop\3\Program\x64\Debug\Program.exe
