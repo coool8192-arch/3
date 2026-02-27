@@ -10,7 +10,9 @@ int main()
 	Vector point1(1, 0);
 	Vector point2(0, 1);
 
-	//Vector point3 = point1 + point2;
+	Vector point3 = point1 + point2;
+
+	++point3;
 #pragma endregion
 
 	return 0;
