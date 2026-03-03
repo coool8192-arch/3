@@ -1,0 +1,10 @@
+﻿  source.cpp
+  Vector.cpp
+  코드를 생성하고 있습니다...
+C:\Users\이시원\Desktop\3\Class7th (Encapsulation)\Vector.cpp(31,1): warning C4172: 지역 변수 또는 임시 : Devide의 주소를 반환하는 중
+C:\Users\이시원\Desktop\3\Class7th (Encapsulation)\Vector.cpp(13,1): warning C4172: 지역 변수 또는 임시 : Add의 주소를 반환하는 중
+C:\Users\이시원\Desktop\3\Class7th (Encapsulation)\Vector.cpp(25,1): warning C4172: 지역 변수 또는 임시 : Multiple의 주소를 반환하는 중
+C:\Users\이시원\Desktop\3\Class7th (Encapsulation)\Vector.cpp(19,1): warning C4172: 지역 변수 또는 임시 : Difference의 주소를 반환하는 중
+C:\Users\이시원\Desktop\3\Class7th (Encapsulation)\Vector.cpp(53,1): warning C4172: 지역 변수 또는 임시 : a의 주소를 반환하는 중
+C:\Users\이시원\Desktop\3\Class7th (Encapsulation)\Vector.cpp(61,1): warning C4172: 지역 변수 또는 임시 : a의 주소를 반환하는 중
+  Class7th (Encapsulation).vcxproj -> C:\Users\이시원\Desktop\3\Program\x64\Debug\Class7th (Encapsulation).exe
