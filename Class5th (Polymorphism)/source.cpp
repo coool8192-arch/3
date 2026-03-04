@@ -1,9 +1,9 @@
 ﻿#define _CRT_SECURE_NO_WARNINGS
 #include "../Program/stdafx.h"
-#include "../Program/Message.h"
-#include "../Program/Strength.h"
-#include "../Program/Dexterity.h"
-#include "../Program/Intelligence.h"
+#include "Message.h"
+#include "Strength.h"
+#include "Dexterity.h"
+#include "Intelligence.h"
 
 int main()
 {

@@ -18,24 +18,24 @@
     <ClCompile Include="source.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\Program\Block.cpp">
+    <ClCompile Include="Block.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\Program\Concrete.cpp">
+    <ClCompile Include="Concrete.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\Program\Stone.cpp">
+    <ClCompile Include="Stone.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\Program\Block.h">
+    <ClInclude Include="Block.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="..\Program\Concrete.h">
+    <ClInclude Include="Concrete.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="..\Program\Stone.h">
+    <ClInclude Include="Stone.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>

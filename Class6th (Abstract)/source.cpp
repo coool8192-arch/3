@@ -1,6 +1,6 @@
 ﻿#include "../Program/stdafx.h"
-#include "../Program/Concrete.h"
-#include "../Program/Stone.h"
+#include "Concrete.h"
+#include "Stone.h"
 
 int main()
 {

@@ -1,2 +1,44 @@
-﻿  Program.cpp
-  Program.vcxproj -> C:\Users\이시원\Desktop\3\Program\x64\Debug\Program.exe
+﻿  Container.cpp
+C:\Users\이시원\Desktop\3\Program\Container.cpp(30,16): warning C4244: '+=': 'T'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\이시원\Desktop\3\Program\Container.cpp(30,16): warning C4244:         with
+C:\Users\이시원\Desktop\3\Program\Container.cpp(30,16): warning C4244:         [
+C:\Users\이시원\Desktop\3\Program\Container.cpp(30,16): warning C4244:             T=float
+C:\Users\이시원\Desktop\3\Program\Container.cpp(30,16): warning C4244:         ]
+      C:\Users\이시원\Desktop\3\Program\Container.cpp(30,16):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Users\이시원\Desktop\3\Program\Container.cpp(44,32):
+          컴파일되는 클래스 템플릿 인스턴스화 'Container<float>'에 대한 참조를 확인하세요.
+          C:\Users\이시원\Desktop\3\Program\Container.cpp(26,1):
+          클래스 템플릿 멤버 함수 'const int &Container<float>::Sum(void)'을(를) 컴파일하는 중입니다.
+  
+C:\Users\이시원\Desktop\3\Program\Container.cpp(30,16): warning C4244: '+=': 'T'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\이시원\Desktop\3\Program\Container.cpp(30,16): warning C4244:         with
+C:\Users\이시원\Desktop\3\Program\Container.cpp(30,16): warning C4244:         [
+C:\Users\이시원\Desktop\3\Program\Container.cpp(30,16): warning C4244:             T=double
+C:\Users\이시원\Desktop\3\Program\Container.cpp(30,16): warning C4244:         ]
+      C:\Users\이시원\Desktop\3\Program\Container.cpp(30,16):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Users\이시원\Desktop\3\Program\Container.cpp(45,33):
+          컴파일되는 클래스 템플릿 인스턴스화 'Container<double>'에 대한 참조를 확인하세요.
+          C:\Users\이시원\Desktop\3\Program\Container.cpp(26,1):
+          클래스 템플릿 멤버 함수 'const int &Container<double>::Sum(void)'을(를) 컴파일하는 중입니다.
+  
+C:\Users\이시원\Desktop\3\Program\Container.cpp(30,7): error C2297: '+=': 오른쪽 피연산자의 유형이 'T'이므로 유효하지 않습니다.
+C:\Users\이시원\Desktop\3\Program\Container.cpp(30,7): error C2297:         with
+C:\Users\이시원\Desktop\3\Program\Container.cpp(30,7): error C2297:         [
+C:\Users\이시원\Desktop\3\Program\Container.cpp(30,7): error C2297:             T=const char *
+C:\Users\이시원\Desktop\3\Program\Container.cpp(30,7): error C2297:         ]
+      C:\Users\이시원\Desktop\3\Program\Container.cpp(30,7):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Users\이시원\Desktop\3\Program\Container.cpp(46,38):
+          컴파일되는 클래스 템플릿 인스턴스화 'Container<const char *>'에 대한 참조를 확인하세요.
+          C:\Users\이시원\Desktop\3\Program\Container.cpp(26,1):
+          클래스 템플릿 멤버 함수 'const int &Container<const char *>::Sum(void)'을(를) 컴파일하는 중입니다.
+  
+C:\Users\이시원\Desktop\3\Program\Container.cpp(30,7): error C2040: '+=': 'int'의 간접 참조 수준이 'T'과(와) 다릅니다.
+C:\Users\이시원\Desktop\3\Program\Container.cpp(30,7): error C2040:         with
+C:\Users\이시원\Desktop\3\Program\Container.cpp(30,7): error C2040:         [
+C:\Users\이시원\Desktop\3\Program\Container.cpp(30,7): error C2040:             T=const char *
+C:\Users\이시원\Desktop\3\Program\Container.cpp(30,7): error C2040:         ]
+  Program.cpp
+  코드를 생성하고 있습니다...

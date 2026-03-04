@@ -127,15 +127,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\Program\Block.cpp" />
-    <ClCompile Include="..\Program\Concrete.cpp" />
-    <ClCompile Include="..\Program\Stone.cpp" />
+    <ClCompile Include="Block.cpp" />
+    <ClCompile Include="Concrete.cpp" />
     <ClCompile Include="source.cpp" />
+    <ClCompile Include="Stone.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\Program\Block.h" />
-    <ClInclude Include="..\Program\Concrete.h" />
-    <ClInclude Include="..\Program\Stone.h" />
+    <ClInclude Include="Block.h" />
+    <ClInclude Include="Concrete.h" />
+    <ClInclude Include="Stone.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
