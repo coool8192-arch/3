@@ -1,31 +1,39 @@
 ﻿#include "stdafx.h"
-#include "Container.h"
-
-template <typename T>
-bool Same(T left, T right)
-{
-	return left == right;
-}
+#include "Material.h"
+#include "Resource.h"
 
 int main()
 {
-#pragma region 템플릿
-	// 데이터 형식에 의존하지 않고 하나의 값이 여러 데이터 형식을 가질 수 있는
-	// 기술에 중점을 두어 재사용성을 높일 수 있는 기능입니다.
+#pragma region 스마트 포인터
+	// 포인터를 사용하면서 자동으로 메모리 관리를 해주며,
+	// 경계 확인 등의 추가 기능을 제공해주는 포인터입니다.
 
-	//cout << Same('a','a') << endl;
-	//cout << Same(3,6) << endl;
-	//cout << Same(1.5f,2.75f) << endl;
-	//cout << Same("Apple","Apple") << endl;
+#pragma region unique pointer
+	// 특정 객체를 하나의 스마트 포인터만 가리킬 수 있게 되어 있는 포인터입니다.
+
+	//unique_ptr<Material> material = make_unique<Material>();
+	//unique_ptr<Material> reference = move(material);
+#pragma endregion
+
+#pragma region shared pointer
+	// 하나의 자원 객체를 여러 포인터 변수가 가리킬 수 있고,
+	// 자원 객체를 필요로 하는 포인터 객체가 모두 없어졌을 때
+	// 자원 객체가 해제되도록 설계된 포인터입니다.
+
+	//shared_ptr<Resource> pointer = make_shared<Resource>();
 	//
-	//Container<int> container(5);
+	//{
+	//	shared_ptr<Resource> reference = pointer;
+	//
+	//	cout << pointer.use_count() << endl;
+	//}
+	//
+	//cout << pointer.use_count() << endl;
+
 #pragma endregion
 
-#pragma region 템플릿 특수화
-	// 특정 자료형에 대해 다르게 처리하고 싶은 경우
-	// 그에 대해서만 다르게 동작시키는 기능입니다.
-
 #pragma endregion
+
 
 	return 0;
 }
