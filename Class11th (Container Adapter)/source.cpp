@@ -1,0 +1,68 @@
+﻿#include "../Program/stdafx.h"
+#include <stack>
+#include <queue>
+
+int main()
+{
+#pragma region 컨테이너 어댑터
+	// 기존 컨테이너의 인터페이스를 제한해 그 기능이 제한/변경된 컨테이너입니다.
+
+#pragma region stack container
+
+	//stack<int> stack;
+	//
+	//stack.push(10);
+	//stack.push(20);
+	//stack.push(30);
+	//stack.push(40);
+	//stack.push(50);
+	//
+	//for (int i = stack.size(); i > 0; i--) // while (stack.empty() == false)
+	//{
+	//	cout << stack.top() << endl;
+	//	stack.pop();
+	//}
+
+#pragma endregion
+
+#pragma region queue container
+
+	//queue<int> queue;
+	//
+	//queue.push(10);
+	//queue.push(20);
+	//queue.push(30);
+	//queue.push(40);
+	//queue.push(50);
+	//
+	//for (int i = queue.size(); i > 0; i--)
+	//{
+	//	cout << queue.front() << endl;
+	//	queue.pop();
+	//}
+#pragma endregion
+
+#pragma region priority queue
+
+	//priority_queue<int> pque;
+	//
+	//pque.push(10);
+	//pque.push(25);
+	//pque.push(16);
+	//pque.push(12);
+	//pque.push(20);
+	//pque.push(30);
+	//
+	//for (int i = pque.size(); i > 0; i--)
+	//{
+	//	cout << pque.top() << endl;
+	//	pque.pop();
+	//}
+
+#pragma endregion
+
+#pragma endregion
+
+	return 0;
+}
+
